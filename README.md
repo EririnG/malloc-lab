@@ -1,10 +1,10 @@
 #####################################################################
-# CS:APP Malloc Lab
-# Handout files for students
-#
-# Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
-# May not be used, modified, or copied without permission.
-#
+<br/>\# CS:APP Malloc Lab
+<br/>\# Handout files for students
+<br/>\#
+<br/>\# Copyright (c) 2002, R. Bryant and D. O'Hallaron, All rights reserved.
+<br/>\# May not be used, modified, or copied without permission.
+<br/>\#
 ######################################################################
 
 ***********
